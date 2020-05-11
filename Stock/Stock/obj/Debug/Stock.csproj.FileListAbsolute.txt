@@ -1,0 +1,44 @@
+C:\Users\Lenovo\source\repos\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Lenovo\source\repos\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Lenovo\source\repos\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmgiris.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmüyeol.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmanasayfa.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmürünekle.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmstokgüncel.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmgüncelleme2.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmşifredeğiştir.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmadetgüncelleme.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmsales.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmreport.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.csproj.ResolveComReference.cache
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmreport2.resources
+C:\Users\Lenovo\source\repos\Stock\Stock\obj\Debug\Stock.frmreportb.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmreport.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmadetgüncelleme.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmgüncelleme2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmreport2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmreportb.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmsales.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmstokgüncel.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmürünekle.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmgiris.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmanasayfa.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmüyeol.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.frmşifredeğiştir.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Lenovo\Documents\Visual Studio 2019\source\repos\Stock\Stock\obj\Debug\Stock.pdb

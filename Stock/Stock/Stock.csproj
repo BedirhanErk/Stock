@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{257BC2C4-46F4-4807-8B49-EA09B398C6E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Stock</RootNamespace>
+    <AssemblyName>Stock</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="frmreportbirleştirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmreportbirleştirme.Designer.cs">
+      <DependentUpon>frmreportbirleştirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmreport2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmreport2.Designer.cs">
+      <DependentUpon>frmreport2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmreport.Designer.cs">
+      <DependentUpon>frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsales.Designer.cs">
+      <DependentUpon>frmsales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmadetgüncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmadetgüncelleme.Designer.cs">
+      <DependentUpon>frmadetgüncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmşifredeğiştir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmşifredeğiştir.Designer.cs">
+      <DependentUpon>frmşifredeğiştir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgüncelleme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgüncelleme2.Designer.cs">
+      <DependentUpon>frmgüncelleme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmstokgüncel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstokgüncel.Designer.cs">
+      <DependentUpon>frmstokgüncel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmürünekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmürünekle.Designer.cs">
+      <DependentUpon>frmürünekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users_Form.cs" />
+    <Compile Include="frmanasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmanasayfa.Designer.cs">
+      <DependentUpon>frmanasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgiris.Designer.cs">
+      <DependentUpon>frmgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmüyeol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmüyeol.Designer.cs">
+      <DependentUpon>frmüyeol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmreport.resx">
+      <DependentUpon>frmreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmadetgüncelleme.resx">
+      <DependentUpon>frmadetgüncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgüncelleme2.resx">
+      <DependentUpon>frmgüncelleme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmreport2.resx">
+      <DependentUpon>frmreport2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmreportbirleştirme.resx">
+      <DependentUpon>frmreportbirleştirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsales.resx">
+      <DependentUpon>frmsales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstokgüncel.resx">
+      <DependentUpon>frmstokgüncel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmürünekle.resx">
+      <DependentUpon>frmürünekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgiris.resx">
+      <DependentUpon>frmgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmanasayfa.resx">
+      <DependentUpon>frmanasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmüyeol.resx">
+      <DependentUpon>frmüyeol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmşifredeğiştir.resx">
+      <DependentUpon>frmşifredeğiştir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
